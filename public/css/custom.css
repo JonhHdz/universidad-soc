@@ -1,0 +1,32 @@
+/*
+ * Custom code goes here.
+ */
+:root {
+	/* Colors: */
+	--primary-color: #015694;
+	--secundary-color: #4AA84F;
+	--green-light-color: #F3F9F4;
+}
+body{
+	font-family: 'Museo Sans', 'Montserrat', 'Muli', sans-serif; }
+
+.text-primary{
+	color: var(--primary-color); }
+.bg-primary{
+	background-color: var(--primary-color); }
+.border-primary{
+	border-color: var(--primary-color); }
+
+.text-secundary{
+	color: var(--secundary-color); }
+.bg-secundary{
+	background-color: var(--secundary-color); }
+.border-secundary{
+	border-color: var(--secundary-color); }
+
+.text-green-light{
+	color: var(--green-light-color); }
+.bg-green-light{
+	background-color: var(--green-light-color); }
+.border-green-light{
+	border-color: var(--green-light-color); }

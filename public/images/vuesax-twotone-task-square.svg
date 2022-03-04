@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55.287" height="55.287" viewBox="0 0 55.287 55.287">
+  <g id="vuesax_twotone_task-square" data-name="vuesax/twotone/task-square" transform="translate(-492 -316)">
+    <g id="task-square" transform="translate(492 316)">
+      <path id="Vector" d="M0,0H12.094" transform="translate(28.496 20.456)" fill="none" stroke="#0b5694" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+      <path id="Vector-2" data-name="Vector" d="M0,3.455,1.728,5.183,6.911,0" transform="translate(14.697 17.001)" fill="none" stroke="#0b5694" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H12.094" transform="translate(28.496 36.582)" fill="none" stroke="#0b5694" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+      <path id="Vector-4" data-name="Vector" d="M0,3.455,1.728,5.183,6.911,0" transform="translate(14.697 33.126)" fill="none" stroke="#0b5694" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+      <path id="Vector-5" data-name="Vector" d="M16.125,46.073H29.947c11.518,0,16.125-4.607,16.125-16.125V16.125C46.073,4.607,41.465,0,29.947,0H16.125C4.607,0,0,4.607,0,16.125V29.947C0,41.465,4.607,46.073,16.125,46.073Z" transform="translate(4.607 4.607)" fill="none" stroke="#0b5694" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-6" data-name="Vector" d="M0,0H55.287V55.287H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

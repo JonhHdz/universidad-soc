@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="61" height="47" viewBox="0 0 61 47">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_1298" data-name="Rectángulo 1298" width="61" height="47" transform="translate(-0.241 -0.262)" fill="none" stroke="#92b437" stroke-width="1.5"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1558" data-name="Grupo 1558" transform="translate(0.241 0.262)">
+    <g id="Grupo_1555" data-name="Grupo 1555">
+      <g id="Grupo_1554" data-name="Grupo 1554" clip-path="url(#clip-path)">
+        <path id="Trazado_2029" data-name="Trazado 2029" d="M13,45.4V1H43.38V45.4" transform="translate(2.19 0.168)" fill="none" stroke="#92b437" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Trazado_2030" data-name="Trazado 2030" d="M43,9.674,52.348,5V42.39" transform="translate(7.243 0.842)" fill="none" stroke="#92b437" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Trazado_2031" data-name="Trazado 2031" d="M1,42.39V5l9.348,4.674" transform="translate(0.168 0.842)" fill="none" stroke="#92b437" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+    <line id="Línea_43" data-name="Línea 43" x2="5" transform="translate(5.759 24.738)" fill="none" stroke="#92b437" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+    <line id="Línea_44" data-name="Línea 44" x2="5" transform="translate(5.759 17.738)" fill="none" stroke="#92b437" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+    <line id="Línea_45" data-name="Línea 45" x2="5" transform="translate(5.759 31.738)" fill="none" stroke="#92b437" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+    <line id="Línea_46" data-name="Línea 46" x2="5" transform="translate(5.759 38.738)" fill="none" stroke="#92b437" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+    <line id="Línea_47" data-name="Línea 47" x2="5" transform="translate(49.759 24.738)" fill="none" stroke="#92b437" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+    <line id="Línea_48" data-name="Línea 48" x2="5" transform="translate(49.759 17.738)" fill="none" stroke="#92b437" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+    <line id="Línea_49" data-name="Línea 49" x2="5" transform="translate(49.759 31.738)" fill="none" stroke="#92b437" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+    <line id="Línea_50" data-name="Línea 50" x2="5" transform="translate(49.759 38.738)" fill="none" stroke="#92b437" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+    <line id="Línea_51" data-name="Línea 51" x2="17" transform="translate(21.759 10.738)" fill="none" stroke="#92b437" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+    <line id="Línea_52" data-name="Línea 52" x2="17" transform="translate(21.759 17.738)" fill="none" stroke="#92b437" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+    <line id="Línea_53" data-name="Línea 53" x2="17" transform="translate(21.759 24.738)" fill="none" stroke="#92b437" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+    <g id="Grupo_1557" data-name="Grupo 1557">
+      <g id="Grupo_1556" data-name="Grupo 1556" clip-path="url(#clip-path)">
+        <path id="Trazado_2032" data-name="Trazado 2032" d="M19,40.684V29H35.358V40.684" transform="translate(3.2 4.885)" fill="none" stroke="#92b437" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+      </g>
+    </g>
+  </g>
+</svg>

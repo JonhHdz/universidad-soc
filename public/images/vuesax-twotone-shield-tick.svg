@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63.033" height="63.033" viewBox="0 0 63.033 63.033">
+  <g id="vuesax_twotone_shield-tick" data-name="vuesax/twotone/shield-tick" transform="translate(-300 -188)">
+    <g id="shield-tick" transform="translate(300 188)">
+      <path id="Vector" d="M18.595.611,5.489,5.548A9.113,9.113,0,0,0,0,13.454V32.968A12.769,12.769,0,0,0,4.544,42l11.293,8.431a11.954,11.954,0,0,0,13.5,0L40.63,42a12.769,12.769,0,0,0,4.544-9.035V13.454a9.119,9.119,0,0,0-5.489-7.932L26.579.611A13.354,13.354,0,0,0,18.595.611Z" transform="translate(8.956 5.246)" fill="none" stroke="#92b437" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H63.033V63.033H0Z" transform="translate(63.033 63.033) rotate(180)" fill="none" opacity="0"/>
+      <path id="Vector-3" data-name="Vector" d="M5.332,10.243H4.938a5.123,5.123,0,1,1,5.305-5.121A5.052,5.052,0,0,1,5.332,10.243Z" transform="translate(26.395 18.706)" fill="none" stroke="#92b437" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+      <path id="Vector-4" data-name="Vector" d="M2.62,1.97c-3.493,2.337-3.493,6.146,0,8.483a14.1,14.1,0,0,0,14.445,0c3.493-2.337,3.493-6.146,0-8.483A14.226,14.226,0,0,0,2.62,1.97Z" transform="translate(21.701 31.885)" fill="none" stroke="#92b437" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+    </g>
+  </g>
+</svg>
